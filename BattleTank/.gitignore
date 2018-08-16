@@ -1,0 +1,17 @@
+Build
+
+Binaries
+
+DerivedDataCache
+
+Intermediate
+
+SavedBattleTank/Content/StarterContent/
+Saved
+Content/StarterContent/Textures
+Content/StarterContent/HDRI
+.vs
+
+*.VC.db
+*.suo
+*.VD.opendb
